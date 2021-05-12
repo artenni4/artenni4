@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @artenni4
 - 👀 I’m interested in C++ Data Structures and Algorithms
-- 🌱 I’m currently learning how C++17 and to make effective algorithms
+- 🌱 I’m currently learning C++17 and how to make effective algorithms
 - 💞️ I’m looking to collaborate on some C++ projects
 - 📫 How to reach me artenni4@gmail.com
